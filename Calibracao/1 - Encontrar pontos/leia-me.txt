@@ -1,0 +1,2 @@
+Nessa etapa, o algoritmo apenas encontra os pontos na imagem do objeto de calibração.
+A remoção dos pontos que não serão utilizados e a formação das correpondências deverão ser ser feitas manualmente.
