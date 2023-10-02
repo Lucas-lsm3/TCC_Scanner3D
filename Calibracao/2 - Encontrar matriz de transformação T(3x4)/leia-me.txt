@@ -1,0 +1,2 @@
+Nessa etapa, o algoritmo recebe como entrada o conjunto de correspondencias entre os pontos obtidos na etapa anterior e devolve a matriz de 
+transformação que mapeia os pontos do plano da imagem e pontos no plano 3D real.

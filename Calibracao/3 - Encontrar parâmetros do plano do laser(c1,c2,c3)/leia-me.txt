@@ -1,0 +1,2 @@
+Nessa etapa, o algoritmo recebe como entrada dois arquivos, onde cada um desses contém um conjunto de correspondencias entre pontos, onde esses pontos pertencem ao(s) plano(s) do(s) laser(s) e como resultado,
+são retornados dois arquivos contendo os coeficientes c1,c2 e c3 que satisfazem a equação do plano.

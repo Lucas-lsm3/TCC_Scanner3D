@@ -1,0 +1,2 @@
+Nessa etapa, o objetivo era obter o ponto referente ao centro de rotação da mesa de rotação, para que este fosse utilizado para compensar o deslicamento do do plano do laser caso esse não
+"passassem" pelo centro da mesa de rotação, no entanto, como os dois emissores de laser foram dispostos de forma que os planos dos lasers "passassem" pelo centro da mesa, esse algoritmo não foi concluído.
