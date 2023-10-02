@@ -1,0 +1,2 @@
+Nessa etapa, o objetivo era identificar o intervalo que os pixels do plano do laser default(pixels do plano do laser sem nenhum objeto na mesa de rotação) podem "aparecer", para isso, o algoritmo recebe
+recebe as 800 imagens contendo as projeções de ambos os feixes de laser e retorna dois arquivos contendo os intervalos dos possiveis pixels dos planos dos lasers em cada linha.
